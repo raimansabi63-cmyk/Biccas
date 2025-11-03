@@ -1,0 +1,318 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+      font-family: "Inter", sans-serif;
+}
+
+header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* position: fixed; */
+    width: 100%;
+    /* background-color:rgb(210, 210, 210); 
+      */
+}
+
+.flex{
+    display: flex;
+}
+
+.container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    /* align-items:center; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+nav a{
+    /* margin-right: 25px; */
+    padding: 10px;
+    color:#a9a9a9;
+}
+
+nav a:first-child{
+    color:black
+}
+
+#vector{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    width: 300px;
+}
+
+#active{
+    display:flex;
+    /* width: 20%; */
+}
+
+#carrot{
+    display:flex;
+    /* align-items: baseline; */
+}
+
+
+
+#a :p{
+    font-size: 20px;
+    font-weight: 200px;
+    /* font-family: Inter; */
+    line-height:20px ;
+}
+
+#oo{
+    /* padding: 10px */
+    border:0.5px;
+    padding:8px;
+    border-radius: 10px;
+    background-color: #54bd95;
+    color: white;
+    margin-left: 10px;
+
+}
+
+#Intro{
+    display: flex;
+    justify-content: baseline;
+    padding-top: 80px;
+    
+}
+
+
+nav h1{
+    font-size: 50px;
+    width: 350px;
+    height: 200px;
+    line-height: 60px;
+    
+}
+
+#body{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#contain{
+    background-color: #f9f8fe;
+    /* margin-right: 10px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Monday{
+    /* background-color: red; */
+    margin-right: 10px;
+    /* display: flex; */
+    /* width: 55%; */
+}
+
+
+nav cat:first-child{
+    width:40px;
+    height: 30px;
+}
+
+
+#cat a:first-child{
+  font-size: 20px;
+  line-height: 40px;
+  padding-bottom: 30px;
+}
+
+#cat a:nth-child(2){
+  font-size: 10px;
+  font-weight: 140px;
+  line-height: 20px;
+  padding-bottom: 73px;
+}
+
+
+.Tuesday{
+    display: flex;
+    
+}
+
+#nav nope:first-child{
+    color: white;
+}
+
+
+.Wednesday{
+    display: flex;
+}
+
+#menu a:first-child{
+    font-weight: bold;
+    color: black;
+}
+
+#Features ul{
+list-style-image: url('Subtract.png');
+padding-right: 50px;
+margin-right: 20px;
+width: 32opx;
+height: 32px;
+}
+
+
+#Apple :first-child{
+    line-height: 45px;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+
+#Apple :nth-child(2){
+    padding-bottom: 73px;
+    color:gray;
+    line-height: 30px;
+    font-size: 15px;
+    width:550px;
+}
+
+
+#rat{
+    padding-right: 20px;
+    display:inline-block;
+    width: 44%;
+}
+
+
+#star{
+    padding-right: 80px
+}
+
+
+#ball a:first-child{
+    font-size: 25px;
+    line-height: 45px;
+}
+
+
+#Footer{
+    background-color: #161c28;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Cow{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: baseline; */
+}
+
+
+.Banana{
+    display: block;
+    padding-right: 20px;
+    line-height: 10px;
+}
+
+#People:first-child{
+    color: white;
+    font-weight: 150;
+    font-size: 30px;
+    line-height: 50px;
+}
+
+#People :nth-child(2){
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: smaller;
+    line-height: 30px;
+}
+
+#People :nth-child(3){
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 100px;
+}
+
+#People :nth-child(4){
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size: smaller;
+    line-height: 30px;
+}
+#People :nth-child(5){
+    color: white;
+    font-size: smaller;
+    padding-bottom: 20px;
+}
+
+#People :nth-child(6){
+    padding-bottom: 50px;
+}
+
+#People :nth-child(7){
+    color: #54bd95;
+    padding-bottom: 10px;
+}
+
+#People:nth-child(8){
+    color:#a6a6a6;
+    font-size: smaller;
+    padding-bottom: 10px;
+}
+
+#op{
+    border: 1px solid #a6a6a6;
+    color:#a6a6a6;
+    padding: 15px;
+    border-radius: 35px;
+}
+
+
+#People{
+    width: 700px;
+    /* line-height: 20px; */
+}
+
+
+#Table{
+    width:500px;
+    text-align: center;
+    color: white;
+    background-color: #222938;
+    padding: 80px;
+    border-radius: 10px;
+}
+
+.coco{
+    display:block;
+    color: white;;
+}
+
+#monkey{
+    display: flex;
+    color: white;
+    margin: 50px;
+    line-height: 30px;
+
+}
+
+
+.gray{
+    color: gray;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.Banana{
+    background: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px;
+    margin-top: 0;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 0px 20px 0px;
+    height: 40px;
+}
+
+
